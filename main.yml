@@ -1,0 +1,18 @@
+title: portfolio
+description: A website about my self
+age: 25
+
+friends:
+  -Gagan
+  -Mohan
+  -krishna
+  -arjun
+
+address:
+  flatno: s-4
+  dis: jaipur
+  state: Rajasthan
+
+
+mobileno: $({env.mobile})
+gf: $({github.VARIABLE_NAME})
